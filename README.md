@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Khushi Raut</h1>
-<h3 align="center">Software developer with a passion for innovation.</h3>
+<h3 align="center">Developer with a passion for innovation.</h3>
 <img align="right" alt="Software developer" width="400" src="https://i.pinimg.com/564x/f2/f5/a8/f2f5a8bb6319b607672df4fc1b0bf8db.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-raut&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-raut" /> </p>
