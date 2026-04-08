@@ -1,73 +1,71 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
-
+<img src="https://miro.medium.com/v2/0*5Zk83_AubW8y3nx5.gif" style="width:100%; height=250" />
 <h1 align="center">Hi 👋, I'm Khushi Raut</h1>
-<h3 align="center">AI/ML | Robotics | Systems Engineering Enthusiast</h3>
-
-<img align="right" alt="Robotics" width="400" src="https://i.pinimg.com/564x/f2/f5/a8/f2f5a8bb6319b607672df4fc1b0bf8db.jpg">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=khushi-raut&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-raut" /> 
-</p>
+<h3 align="center">Building intelligent systems at the intersection of AI, Robotics, and Software</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Final-year Computer Engineering student  
-- 🤖 Interested in **Robotics, Computer Vision, and Backend Systems**  
-- ⚙️ Experienced in **API integration, debugging, and automation scripting**  
-- 🧠 Focused on building real-world systems with practical implementation  
+<img align="right" alt="robotics" width="350" src="https://static.vecteezy.com/system/resources/previews/021/627/343/non_2x/artificial-intelligence-design-ai-technology-and-cyber-background-and-banner-futuristic-technology-service-and-communication-artificial-intelligence-concept-vector.jpg">
+
+### 💡 Who I Am
+I’m a final-year Computer Engineering student who enjoys breaking down complex systems and building them back into working solutions.  
+My work revolves around **understanding how systems behave**, not just making them work.
+
+I’m particularly interested in:
+- Designing **intelligent systems that interact with the real world**
+- Combining **software + hardware + data**
+- Solving problems that involve **multiple layers of abstraction**
 
 ---
 
-### 🔥 Current Work
-- 🤖 Working on **UR5-based 6-DoF robotic arm (hardware + ROS2 integration)**
-- 🧠 Exploring **AI/ML and system-level problem solving**
-- ⚙️ Building automation workflows using APIs and scripting  
+### ⚙️ What I Work With
+
+- **Languages:** Python, C++, JavaScript, SQL  
+- **AI / Computer Vision:** OpenCV, YOLOv5, TensorFlow  
+- **Robotics:** ROS2, MoveIt2, Nav2, Gazebo  
+- **Systems & Backend:** REST APIs, automation scripting (Groovy, Forge)  
+- **Tools:** Git, Linux, VS Code, MySQL  
 
 ---
 
-### 📫 How to reach me  
-- 📧 **rautkhushi787@gmail.com**
+### 🚀 What I Enjoy Building
+
+- 🤖 Robotic systems that combine perception + motion  
+- 🧠 AI models that solve practical problems  
+- ⚙️ Backend systems that handle real-world workflows  
+- 🔍 Debugging complex issues and understanding system behavior  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi-raut-97aa61289" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
+### 🧩 How I Think
+
+- I focus on **systems thinking** — understanding how components interact  
+- I prefer **hands-on building** over passive learning  
+- I treat debugging as a **core engineering skill**, not a task  
+- I aim to build things that are **usable, not just impressive**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### 📈 Current Focus
 
-<!-- Programming -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+- Improving depth in **AI/ML and system design**  
+- Strengthening **problem-solving and DSA**  
+- Building projects that combine **hardware + software + intelligence**  
 
-<!-- AI/ML -->
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+---
 
-<!-- Robotics -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+### 📫 Reach Me
 
-<!-- Database -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-
-<!-- Tools -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-
-</p>
+- 📧 Email: rautkhushi787@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/khushi-raut-97aa  
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-raut&show_icons=true&locale=en&layout=compact" alt="khushi-raut" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Raut&show_icons=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-raut&show_icons=true&locale=en" alt="khushi-raut" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-raut&" alt="khushi-raut" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Raut" />
+</p>
