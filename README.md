@@ -1,4 +1,5 @@
-<img src="https://miro.medium.com/v2/0*5Zk83_AubW8y3nx5.gif" style="width:100%; height=250" />
+
+<img src="https://www.reisystems.com/wp-content/uploads/2024/09/AIandGrants_FeaturedImage.gif" style="width:100%; max-height:220px; object-fit:cover;" />
 <h1 align="center">Hi 👋, I'm Khushi Raut</h1>
 <h3 align="center">Building intelligent systems at the intersection of AI, Robotics, and Software</h3>
 
