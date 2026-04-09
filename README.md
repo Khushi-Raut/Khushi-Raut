@@ -104,27 +104,11 @@ I’m particularly interested in:
 
 ---
 
-### 🧩 How I Think
-
-- I focus on **systems thinking** — understanding how components interact  
-- I prefer **hands-on building** over passive learning  
-- I treat debugging as a **core engineering skill**, not a task  
-- I aim to build things that are **usable, not just impressive**
-
----
-
 ### 📈 Current Focus
 
 - Improving depth in **AI/ML and system design**  
 - Strengthening **problem-solving and DSA**  
-- Building projects that combine **hardware + software + intelligence**  
-
----
-
-### 📫 Reach Me
-
-- 📧 Email: rautkhushi787@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/khushi-raut-97aa61289 
+- Building projects that combine **hardware , software & intelligence**  
 
 ---
 
